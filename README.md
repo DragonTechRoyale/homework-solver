@@ -1,5 +1,5 @@
 # homework solver
- solve all of you math homework in a click
+ solve all of your math homework in a click
  
  usage:
  
@@ -10,4 +10,4 @@
 * .txt only
 * This program has no warranty or support. Contact me on Twitter @DTR4K
 
-Copyright DragonTechRoyale 2020
+
